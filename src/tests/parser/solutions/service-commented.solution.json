@@ -58,20 +58,20 @@
                     "throws": [],
                     "comments": [
                         {
-                            "loc": {
-                                "end": {
-                                    "column": 24,
-                                    "index": 38,
-                                    "line": 2
-                                },
-                                "start": {
-                                    "column": 17,
-                                    "index": 31,
-                                    "line": 2
-                                }
-                            },
                             "type": "CommentLine",
-                            "value": "tail"
+                            "value": "tail",
+                            "loc": {
+                                "start": {
+                                    "line": 2,
+                                    "column": 17,
+                                    "index": 31
+                                },
+                                "end": {
+                                    "line": 2,
+                                    "column": 24,
+                                    "index": 38
+                                }
+                            }
                         }
                     ],
                     "oneway": false,

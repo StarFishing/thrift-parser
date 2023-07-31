@@ -73,20 +73,20 @@
                     "defaultValue": null,
                     "comments": [
                         {
-                            "loc": {
-                                "end": {
-                                    "column": 36,
-                                    "index": 49,
-                                    "line": 2
-                                },
-                                "start": {
-                                    "column": 29,
-                                    "index": 42,
-                                    "line": 2
-                                }
-                            },
                             "type": "CommentLine",
-                            "value": "tail"
+                            "value": "tail",
+                            "loc": {
+                                "start": {
+                                    "line": 2,
+                                    "column": 29,
+                                    "index": 42
+                                },
+                                "end": {
+                                    "line": 2,
+                                    "column": 36,
+                                    "index": 49
+                                }
+                            }
                         }
                     ],
                     "loc": {
